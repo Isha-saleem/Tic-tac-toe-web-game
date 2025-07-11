@@ -14,22 +14,3 @@ Smooth player interaction and input handling
 Clean, modular code in tictactoe.py for logic and runner.py for UI
 
 
-**Technologies:**
-
-Python 3
-
-Pygame
-
-Minimax algorithm (no external libraries used)
-
-
-**How to Play:**
-
-Clone this repo
-
-Run: pip install -r requirements.txt
-
-Start the game:
-python runner.py
-
-Select your side (X or O) and play!
